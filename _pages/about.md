@@ -21,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 hello. my name is kim seheon. I'm undergraduate student in SKKU.
 
 <h3> Skills
-  <h4> Language 
-      - English, Korean
+  <h5> Language    
+      <p> - English, Korean
   <h4> Tools
       - Cooperation : github, gitkraken, slack, notion
       - Hardware design : Autodesk inventor
