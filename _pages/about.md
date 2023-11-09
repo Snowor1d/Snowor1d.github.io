@@ -20,21 +20,22 @@ social: true  # includes social icons at the bottom of the page
 ---
 hello. my name is kim seheon. I'm undergraduate student in SKKU.
 
-<h6> **Skills**
-  <h8> Language    
+<h5> **Skills**
+  <h6> Language    
       <p> - English, Korean
-  <h8> Tools
+  <h6> Tools
       <p> - Cooperation : github, gitkraken, slack, notion
-      <p> - Hardware design : Autodesk inventor
-      <p> - Programming language : C, C++, python, JS
-      <p> - Middle OS : ROS(Melodic), ROS2(Foxy)
-      <p> - OS : Windows, Linux(Ubuntu 18.04, 20.04)
-      <p> - Simulation : Gazebo, Morai
-      <p> - Art design : Procreate, Adobe illustrators
-  <h8> Used develop packages
-      <p> - Pixhawk Autopilot
-      <p> - Yolov5
-      <p> - Navigation stack
+          - Hardware design : Autodesk inventor
+          - Programming language : C, C++, python, JS
+          - Middle OS : ROS(Melodic), ROS2(Foxy)
+          - OS : Windows, Linux(Ubuntu 18.04, 20.04)
+          - Simulation : Gazebo, Morai
+          - Art design : Procreate, Adobe illustrators </p>
+  <h6> Used develop packages
+      <p>
+          - Pixhawk Autopilot
+          - Yolov5
+          - Navigation stack </p>
 
 <h6> **Education**
   <h8> School
