@@ -11,8 +11,8 @@ profile:
   more_info: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 hello. my name is kim seheon. I'm undergraduate student in SKKU.
@@ -49,7 +49,7 @@ hello. my name is kim seheon. I'm undergraduate student in SKKU.
     &nbsp; Mobility & Robotics  
         &nbsp; &nbsp;- 2023 korea robot aircraft contest (23.04 ~ 23.07)  
         &nbsp; &nbsp;- 2023 KASE colleage students self-made car contest, bronze award (23.06 ~ 23.08)
-          
+
 **Contact**  
         &nbsp; &nbsp;- github : https://github.com/Snowor1d  
         &nbsp; &nbsp;- e-mail : 437travel@naver.com  
