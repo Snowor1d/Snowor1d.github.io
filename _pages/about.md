@@ -40,6 +40,7 @@ hello. my name is kim seheon. I'm undergraduate student in SKKU.
     &nbsp; Majors  
         &nbsp; &nbsp;- Mechanical Engineering  
         &nbsp; &nbsp;- Software  
+
 **Projects & Achievement**  
     &nbsp; Data & AI  
         &nbsp; &nbsp;- 2020 Data science study (20.09~20.12)  
@@ -47,7 +48,8 @@ hello. my name is kim seheon. I'm undergraduate student in SKKU.
         &nbsp; &nbsp;- Crowd management robot path planning using Deep Reinforcement Learning (23.09 ~)  
     &nbsp; Mobility & Robotics  
         &nbsp; &nbsp;- 2023 korea robot aircraft contest (23.04 ~ 23.07)  
-        &nbsp; &nbsp;- 2023 KASE colleage students self-made car contest, bronze award (23.06 ~ 23.08)  
+        &nbsp; &nbsp;- 2023 KASE colleage students self-made car contest, bronze award (23.06 ~ 23.08)
+          
 **Contact**  
         &nbsp; &nbsp;- github : https://github.com/Snowor1d  
         &nbsp; &nbsp;- e-mail : 437travel@naver.com  
